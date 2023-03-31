@@ -24,17 +24,17 @@ footsteps/footwet2.wav
 footsteps/footwet3.wav
 footsteps/footwet4.wav
 creature_insect/fly.wav
-swipe1.wav
-swipe2.wav
-swipe3.wav
-swipe4.wav
-swipe5.wav
-swipe2.wav
-payday1.wav
-payday2.wav
-payday3.wav
+strikes/swipe1.wav
+strikes/swipe2.wav
+strikes/swipe3.wav
+strikes/swipe4.wav
+strikes/swipe5.wav
+strikes/swipe2.wav
+gold/payday1.wav
+gold/payday2.wav
+gold/payday3.wav
 traps/rockroll.wav
-splash.wav
+terrain/splash.wav
 creature_spells/heal.wav
 creature_spells/speedup2.wav
 keeper_spells/possess.wav
@@ -45,7 +45,7 @@ creature_spells/fireball.wav
 creature_spells/bow.wav
 rooms/belltoll.wav
 creature_spells/firepuff.wav
-explode.wav
+creature_spells/explode.wav
 creature_spells/coldpuff.wav
 creature_spells/freeze.wav
 creature_spells/frozen.wav
@@ -56,8 +56,8 @@ creature_spells/anigren.wav
 creature_spells/lightng.wav
 creature_spells/breath.wav
 creature_spells/smsplat1.wav
-tinysplt.wav
-spit.wav
+creature_spells/tinysplt.wav
+creature_spells/spit.wav
 gui/button1.wav
 gui/button2.wav
 gui/button3.wav
@@ -77,7 +77,7 @@ keeper_spells/slap.wav
 creature_spells/stars3.wav
 gui/slab3.wav
 terrain/torch2.wav
-coinsack.wav
+gold/coinsack.wav
 chicken/chick5a.wav
 chicken/chick5b.wav
 chicken/chick5c.wav
@@ -85,8 +85,8 @@ keeper_spells/fanfare1.wav
 keeper_spells/fanfare3.wav
 rooms/training.wav
 rooms/workshop.wav
-whip.wav
-coindrop.wav
+creature_spells/whip.wav
+gold/coindrop.wav
 gui/buzzer.wav
 traps/alarm.wav
 terrain/doorup2.wav
@@ -113,8 +113,8 @@ chicken/chick3c.wav
 chicken/chick4a.wav
 chicken/chick4b.wav
 chicken/chick4c.wav
-suck.wav
-takeover.wav
+rooms/suck.wav
+rooms/takeover.wav
 gui/slab4.wav
 gui/digmark.wav
 gui/cant.wav
@@ -150,54 +150,54 @@ terrain/lava2.wav
 terrain/lava3.wav
 rooms/beat1.wav
 rooms/beat2a.wav
-heartdie.wav
+rooms/heartdie.wav
 creature_spells/armour.wav
 creature_spells/conceal.wav
 rooms/prayers.wav
 rooms/scavenge.wav
 traps/lgtnball.wav
-makebed.wav
+rooms/makebed.wav
 rooms/resdone.wav
 rooms/rescomp.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 creature_dog/hound1.wav
 creature_dog/hound2.wav
 creature_dog/hound3.wav
 creature_dog/dogpiss.wav
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 gui/tabhit.wav
 traps/trigtrap.wav
-null.wav	255
-heartdie.wav
-null.wav	255
+nulls/null.wav	255
+rooms/heartdie.wav
+nulls/null.wav	255
 keeper_spells/armagedn.wav
 footsteps/snowft1.wav
 footsteps/snowft2.wav
 footsteps/snowft3.wav
 footsteps/snowft4.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 landview/niceland.wav
 landview/badland.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 torture_screen/tort01.wav
 torture_screen/tort02.wav
 torture_screen/tort03.wav
@@ -207,129 +207,129 @@ torture_screen/tort06.wav
 torture_screen/tort07.wav
 torture_screen/tort08.wav
 torture_screen/tort09.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 creature_horny/horntor1.wav
 creature_horny/horntor2.wav
 creature_horny/horntor3.wav
@@ -346,7 +346,7 @@ creature_horny/horntor1.wav
 creature_horny/horntor2.wav
 creature_horny/horntor3.wav
 creature_horny/hornslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1fgt1.wav
 creature_male/man1fgt2.wav
 creature_male/man1fgt3.wav
@@ -357,13 +357,13 @@ creature_male/man1hit2.wav
 creature_male/man1hit3.wav
 creature_male/man1die1.wav
 creature_male/man1die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_troll/gobtor1.wav
 creature_troll/gobtor2.wav
 creature_troll/gobtor1.wav
@@ -380,7 +380,7 @@ creature_troll/gobtor1.wav
 creature_troll/gobtor2.wav
 creature_troll/gobtor1.wav
 creature_troll/gobslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_dragon/dragtor1.wav
 creature_dragon/dragtor2.wav
 creature_dragon/dragtor3.wav
@@ -397,7 +397,7 @@ creature_dragon/dragtor1.wav
 creature_dragon/dragtor2.wav
 creature_dragon/dragtor3.wav
 creature_dragon/dragslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwtor2.wav
 creature_demonspawn/dspwtor2.wav
@@ -414,24 +414,24 @@ creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwtor2.wav
 creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwslap.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
 creature_digger/imptor1.wav
 creature_digger/imptor2.wav
 creature_digger/imptor3.wav
 creature_digger/impslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_female/femtor1.wav
 creature_female/femtor2.wav
 creature_female/femtor3.wav
@@ -442,13 +442,13 @@ creature_female/femhit1.wav
 creature_female/femhit1.wav
 creature_female/femdie1.wav
 creature_female/femdie2.wav
-null.wav	255
+nulls/null.wav	255
 creature_female/femdrop.wav
 creature_female/femtor1.wav
 creature_female/femtor2.wav
 creature_female/femtor3.wav
 creature_female/femhit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man2fgt1.wav
 creature_male/man1fgt1.wav
 creature_male/man1fgt2.wav
@@ -465,7 +465,7 @@ creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man2hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_horny/horntor1.wav
 creature_horny/horntor2.wav
 creature_horny/horntor3.wav
@@ -482,7 +482,7 @@ creature_horny/horntor1.wav
 creature_horny/horntor2.wav
 creature_horny/horntor3.wav
 creature_horny/hornslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_digger/imptor1.wav
 creature_digger/imptor2.wav
 creature_digger/imptor3.wav
@@ -499,24 +499,24 @@ creature_digger/imptor1.wav
 creature_digger/imptor2.wav
 creature_digger/imptor3.wav
 creature_digger/impslap.wav
-null.wav	255
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-null.wav	255
+nulls/null.wav	255
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/null.wav	255
 creature_wizard/wiztor1.wav
 creature_wizard/wiztor2.wav
 creature_wizard/wiztor1.wav
@@ -533,32 +533,32 @@ creature_wizard/wiztor1.wav
 creature_wizard/wiztor2.wav
 creature_wizard/wiztor1.wav
 creature_wizard/wizslap.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/bugnull.wav
+nulls/null.wav	255
 creature_dog/hound1.wav
 creature_dog/hound2.wav
 creature_dog/hound3.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 creature_dog/dogdie.wav
 creature_dog/dogdie.wav
 creature_dog/doghang.wav
@@ -567,41 +567,41 @@ creature_dog/hound1.wav
 creature_dog/hound2.wav
 creature_dog/hound3.wav
 creature_dog/dogslap.wav
-null.wav	255
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-gstnull.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+nulls/null.wav	255
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/gstnull.wav
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
+nulls/null.wav	255
 creature_wizard/wiztor1.wav
 creature_wizard/wiztor2.wav
 creature_wizard/wiztor1.wav
@@ -618,7 +618,7 @@ creature_wizard/wiztor1.wav
 creature_wizard/wiztor2.wav
 creature_wizard/wiztor1.wav
 creature_wizard/wizslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man3fgt1.wav
 creature_male/man1fgt2.wav
 creature_male/man1fgt3.wav
@@ -629,13 +629,13 @@ creature_male/man3hit2.wav
 creature_male/man3hit3.wav
 creature_male/man3die1.wav
 creature_male/man3die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man3drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man3hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man3fgt1.wav
 creature_male/man1fgt2.wav
 creature_male/man1fgt3.wav
@@ -646,13 +646,13 @@ creature_male/man3hit2.wav
 creature_male/man3hit3.wav
 creature_male/man3die1.wav
 creature_male/man3die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man3drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man3hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man2fgt1.wav
 creature_male/man1fgt1.wav
 creature_male/man1fgt2.wav
@@ -663,13 +663,13 @@ creature_male/man2hit2.wav
 creature_male/man2hit3.wav
 creature_male/man2die1.wav
 creature_male/man2die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man2drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man2hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_dwarfa/dwrftor1.wav
 creature_dwarfa/dwrftor2.wav
 creature_dwarfa/dwrftor1.wav
@@ -686,7 +686,7 @@ creature_dwarfa/dwrftor1.wav
 creature_dwarfa/dwrftor2.wav
 creature_dwarfa/dwrftor1.wav
 creature_dwarfa/dwrfslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1fgt1.wav
 creature_male/man1fgt2.wav
 creature_male/man1fgt3.wav
@@ -697,13 +697,13 @@ creature_male/man1hit2.wav
 creature_male/man1hit3.wav
 creature_male/man1die1.wav
 creature_male/man1die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man2fgt1.wav
 creature_male/man1fgt1.wav
 creature_male/man1fgt2.wav
@@ -714,13 +714,13 @@ creature_male/man2hit2.wav
 creature_male/man2hit3.wav
 creature_male/man2die1.wav
 creature_male/man2die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man2drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man2hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_dwarfa/dwrftor1.wav
 creature_dwarfa/dwrftor2.wav
 creature_dwarfa/dwrftor1.wav
@@ -737,7 +737,7 @@ creature_dwarfa/dwrftor1.wav
 creature_dwarfa/dwrftor2.wav
 creature_dwarfa/dwrftor1.wav
 creature_dwarfa/dwrfslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_female/femtor1.wav
 creature_female/femtor2.wav
 creature_female/femtor3.wav
@@ -748,13 +748,13 @@ creature_female/femhit1.wav
 creature_female/femhit1.wav
 creature_female/femdie1.wav
 creature_female/femdie2.wav
-null.wav	255
+nulls/null.wav	255
 creature_female/femdrop.wav
 creature_female/femtor1.wav
 creature_female/femtor2.wav
 creature_female/femtor3.wav
 creature_female/femhit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_horny/horntor1.wav
 creature_horny/horntor2.wav
 creature_horny/horntor3.wav
@@ -771,7 +771,7 @@ creature_horny/horntor1.wav
 creature_horny/horntor2.wav
 creature_horny/horntor3.wav
 creature_horny/hornslap.wav
-null.wav	255
+nulls/null.wav	255
 creature_female/femtor1.wav
 creature_female/femtor2.wav
 creature_female/femtor3.wav
@@ -782,13 +782,13 @@ creature_female/femhit1.wav
 creature_female/femhit1.wav
 creature_female/femdie1.wav
 creature_female/femdie2.wav
-null.wav	255
+nulls/null.wav	255
 creature_female/femdrop.wav
 creature_female/femtor1.wav
 creature_female/femtor2.wav
 creature_female/femtor3.wav
 creature_female/femhit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1fgt1.wav
 creature_male/man1fgt2.wav
 creature_male/man1fgt3.wav
@@ -799,13 +799,13 @@ creature_male/man1hit2.wav
 creature_male/man1hit3.wav
 creature_male/man1die1.wav
 creature_male/man1die2.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
 creature_male/man1hit1.wav
-null.wav	255
+nulls/null.wav	255
 creature_male/man1fgt1.wav
 creature_male/man2fgt1.wav
 creature_male/man3fgt1.wav
@@ -943,8 +943,8 @@ new/spurint3.wav
 new/spurint4.wav
 new/stars.wav
 new/stars2.wav
-null.wav
-null.wav
+nulls/null.wav
+nulls/null.wav
 new/tabfall.wav
 new/torch.wav
 new/tunnel1.wav
